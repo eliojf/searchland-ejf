@@ -9,7 +9,7 @@ The App is deployed on Vercel and can be accessed [here](https://searchland-ejf.
 
 ## Tech Stack
 
-- **Next.js 13**: Frontend framework for React with built-in API routes.
+- **Next.js 14**: Frontend framework for React with built-in API routes.
 - **TypeScript**: Static typing for JavaScript (100% Typescript).
 - **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
 - **Drizzle ORM**: SQL-first ORM for interacting with the database.
