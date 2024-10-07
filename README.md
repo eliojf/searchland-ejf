@@ -3,6 +3,10 @@
 This repository contains the code for the Searchland Full Stack Technical Test.
 The project is structured as a **monorepo** and includes a Next.js frontend, backend services, and various configurations to streamline the development process. The app allows users to manage a list of users, (Add a user, List the users with pagination, Delete a user, see a user profile page).
 
+## Demo
+
+The App is deployed on Vercel and can be accessed [here](https://searchland-ejf.vercel.app/).
+
 ## Tech Stack
 
 - **Next.js 13**: Frontend framework for React with built-in API routes.
