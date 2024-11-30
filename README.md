@@ -1,7 +1,33 @@
-# Searchland Test
+# Searchland
 
-This repository contains the code for the Searchland Full Stack Technical Test.
-The project is structured as a **monorepo** and includes a Next.js frontend, backend services, and various configurations to streamline the development process. The app allows users to manage a list of users, (Add a user, List the users with pagination, Delete a user, see a user profile page).
+This repository is a practice exercise to demonstrate my skills as a Fullstack developer.
+
+## Instructions
+
+Process
+
+1. Create a repo / monorepo with a typescript react application and backend
+   (Can be server side or client side rendering) See requirements below.
+2. Create a basic user table
+3. Create the ability to add a user
+4. List all the users (must have pagination)
+5. Allow deleting of a user
+6. Create a user profile page when clicking on a row in the table and display info
+   about the user
+
+## Requirements
+
+- Everything must be in typescript
+- You must use either [Drizzle](https://orm.drizzle.team/) or [Kysely](https://kysely.dev/)
+
+## Optional but not required tools to use
+
+- [tRPC](https://trpc.io/)
+- [Tailwind](https://tailwindcss.com/)
+
+## Solution
+
+I choose to structure the project as a **monorepo** and includes a Next.js 14 frontend & backend services, and various configurations to streamline the development process. The app allows users to manage a list of users, (Add a user, List the users with pagination, Delete a user, see a user profile page).
 
 ## Demo
 
